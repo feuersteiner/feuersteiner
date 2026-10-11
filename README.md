@@ -1,5 +1,8 @@
 <div>
-  <img src="assets/header/standing-header.png" width="960" alt="feuersteiner — We build software with AI. We work across business, product, design, and engineering. A pixel-art avatar waves on the left; a desk and red road bike sit below the introduction on the right.">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header/standing-header-dark.png">
+    <img src="assets/header/standing-header.png" width="960" alt="feuersteiner — We build software with AI. We work across business, product, design, and engineering. A pixel-art avatar waves on the left, with a desk behind him and a red road bike at the bottom-right.">
+  </picture>
 </div>
 
 [Writing &amp; experiments ↗](https://flintworks.dev)
@@ -17,11 +20,3 @@
 <h3>Enablement</h3>
 <p><img src="assets/flint-enablement-pixel.png" width="120" alt="A pixel-art flint core yielding a blade, scraper, and arrowhead"></p>
 <p>We want what we create to let you do more. You should be able to build your organization on solid foundations. We believe open source is the best way to make that possible: software you can understand, change, and build on independently.</p>
-
-## Projects
-
-- [Bref-ui](https://github.com/feuersteiner/bref-ui) —
-  Svelte components with scoped CSS and source you can own.
-  V2 is in development.
-- [Contextrie](https://github.com/feuersteiner/contextrie) —
-  Context and memory tooling for AI agents.
