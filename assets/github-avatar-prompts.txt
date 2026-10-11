@@ -1,7 +1,0 @@
-GitHub avatar provenance
-
-Copied from: /Users/feuerstein/dev/personal-avatar/clean-portrait-snapped.png
-Destination: assets/github-avatar.png
-Role: canonical main GitHub avatar and README illustration style reference.
-Original generation specifications: /Users/feuerstein/dev/personal-avatar/base-prompt.txt
-Source project processing: built-in imagegen original, followed by Rust pixel-snap with 4x4 blocks, 128 colors, and --vivid.
