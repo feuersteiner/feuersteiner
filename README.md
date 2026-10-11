@@ -9,7 +9,8 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p>We build software with AI. We work across business, product, design, and engineering.</p>
+      <p>hi, you can call me "feuersteiner". I'm your friendly neighborhood engineer.</p>
+      <p>I love building useful things. I love making tech disappear. when not building you can find me cycling.</p>
       <p><a href="https://flintworks.dev">Writing &amp; experiments ↗</a></p>
     </td>
   </tr>
