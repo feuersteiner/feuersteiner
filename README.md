@@ -1,25 +1,18 @@
 <table>
   <tr>
-    <td width="280" rowspan="2" align="center" valign="middle">
-      <img src="assets/header/header-standing-wave.png" width="280" alt="Pixel-art avatar standing and waving hello">
+    <td width="360" rowspan="2" align="center" valign="middle">
+      <img src="assets/header/header-avatar-desk.png" width="340" alt="Pixel-art avatar standing and waving hello, with a desk and two screens behind him">
     </td>
-    <td colspan="2" valign="bottom">
+    <td width="440" valign="top">
       <h1>feuersteiner</h1>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <p>hi, you can call me "feuersteiner". I'm your friendly neighborhood engineer.</p>
       <p>I love building useful things. I love making tech disappear. when not building you can find me cycling.</p>
       <p><a href="https://flintworks.dev">Writing &amp; experiments ↗</a></p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="bottom">
-      <img src="assets/header/header-desk.png" width="400" alt="Desk with two screens">
-    </td>
-    <td width="280" align="center" valign="bottom">
-      <img src="assets/header/header-bike.png" width="280" alt="Red road bike">
+    <td align="center" valign="bottom">
+      <img src="assets/header/header-bike.png" width="340" alt="Red road bike">
     </td>
   </tr>
 </table>
