@@ -1,11 +1,27 @@
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header/standing-header-dark.png">
-    <img src="assets/header/standing-header.png" width="960" alt="feuersteiner — We build software with AI. We work across business, product, design, and engineering. A pixel-art avatar waves on the left, with a desk behind him and a red road bike at the bottom-right.">
-  </picture>
-</div>
-
-[Writing &amp; experiments ↗](https://flintworks.dev)
+<table>
+  <tr>
+    <td width="280" rowspan="2" align="center" valign="middle">
+      <img src="assets/header/header-standing-wave.png" width="280" alt="Pixel-art avatar standing and waving hello">
+    </td>
+    <td colspan="2" valign="bottom">
+      <h1>feuersteiner</h1>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p>We build software with AI. We work across business, product, design, and engineering.</p>
+      <p><a href="https://flintworks.dev">Writing &amp; experiments ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="bottom">
+      <img src="assets/header/header-desk.png" width="400" alt="Desk with two screens">
+    </td>
+    <td width="280" align="center" valign="bottom">
+      <img src="assets/header/header-bike.png" width="280" alt="Red road bike">
+    </td>
+  </tr>
+</table>
 
 ## Philosophy
 
