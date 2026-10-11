@@ -1,9 +1,15 @@
-# feuersteiner
-
-We build software with AI. We work across business, product,
-design, and engineering.
-
-[Writing & experiments ↗](https://flintworks.dev)
+<table>
+  <tr>
+    <td width="340" valign="middle">
+      <img src="assets/header/standing-header.png" width="320" alt="Pixel-art avatar waving hello, with a red road bike and a desk with two screens behind him">
+    </td>
+    <td valign="middle">
+      <h1>feuersteiner</h1>
+      <p>We build software with AI. We work across business, product, design, and engineering.</p>
+      <p><a href="https://flintworks.dev">Writing &amp; experiments ↗</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Philosophy
 
